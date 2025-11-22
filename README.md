@@ -46,9 +46,13 @@ It automates the installation of essential dependencies, offensive security tool
 ## 📦 Installation
 
 git clone https://github.com/HackingTeamOficial/BountyForge.git
+
 cd BountyForge
+
 chmod +x bountyforge.sh
+
 sudo ./bountyforge.sh
+
 
 📁 Structure
 
